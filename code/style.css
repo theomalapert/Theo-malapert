@@ -1,0 +1,100 @@
+.banner{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	background-image: url("https://static.highsnobiety.com/wp-content/uploads/2018/02/26164528/jaden-smith-just-water-interview-000.jpg");
+
+	background-size: cover;
+	height: 700px;
+
+}
+
+
+.banner-content{
+	margin: auto;
+	padding-bottom: 40px;	
+	padding-top: : 100px;
+	padding-left: 30px;
+	padding-right: 30px;
+	text-align: center;
+	width : 50%;
+	border-radius: 10px 10px 10px 10px;
+	box-shadow: 4px 6px 13px 1px rgba(49,10,49,0.4);
+	background-color: rgba(255, 255, 255, 0.4);
+	font-family: 'Calistoga', cursive;
+}
+
+.h3 {
+	background-color: black;
+	color: white;
+	font-family: 'Calistoga', cursive;
+
+}
+.cards {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	height: 700px;
+	width : 100%;
+	border-radius: 10px 10px 10px 10px;
+	box-shadow: 4px 6px 13px 1px rgba(49,10,49,0.4);
+	font-family: 'Calistoga', cursive;
+}
+
+.banner-button {
+	width: 30%;
+	padding: 20px 30px;
+	background-color: white;
+	background-color: rgba(255, 255, 255, 0.4);
+	margin: auto;
+}
+
+
+
+.card1{
+	align-items: center;
+	justify-content: center;
+	text-align: center;
+	margin: auto;
+	width: 33%;
+	height: 90%;
+	background-image: url("http://cdn01.cdn.justjaredjr.com/wp-content/uploads/2018/02/jaden-water/jaden-smith-launches-new-just-water-01.jpg");
+	background-size: contain;
+	background-repeat:no-repeat;
+	background-position: center;
+	font-family: 'Calistoga', cursive;
+}
+.card2{
+	align-items: center;
+	justify-content: center;
+	text-align: center;
+	margin: auto;
+	width: 33%;
+	height: 90%;
+	background-image: url("https://cdn.shopify.com/s/files/1/1628/8781/products/Amazon-spring500-image_4_900x.jpg?v=1561162854");
+	background-size: contain;
+	background-repeat:no-repeat;
+	background-position: bottom;
+	font-family: 'Calistoga', cursive;
+}
+.card3{
+	align-items: center;
+	justify-content: center;
+	text-align: center;
+	margin: auto;
+	width: 33%;
+	height: 90%;
+	background-image: url("https://inhabitat.com/wp-content/blogs.dir/1/files/2019/03/water-box.jpg");
+	background-size: contain;
+	background-repeat:no-repeat;
+	background-position: bottom;
+	font-family: 'Calistoga', cursive;
+}
+
+footer{
+	align-items: left;
+	background-color: black
+	height: 400px;
+	font-family: 'Calistoga', cursive;
+	font-size: 20px;
+}
